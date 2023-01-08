@@ -1,0 +1,6 @@
+[submodule "solitude-frontend"]
+	path = solitude-frontend
+	url = https://github.com/tolgafiratoglu/solitude-frontend
+[submodule "solitude-backend"]
+	path = solitude-backend
+	url = https://github.com/tolgafiratoglu/solitude-backend
